@@ -1,5 +1,3 @@
----- English ----
-
 # Measurement Converter
 This practical JavaScript project aims to simulate a measurement calculator for converting between kilometers, meters, centimeters, and millimeters.
 
@@ -35,7 +33,6 @@ There are no dependencies.
 [Linkedin](https://www.linkedin.com/in/gleriston/) | [Codepen](https://codepen.io/GleristonCastro) | [Dev.to](https://dev.to/gleristoncastro) | [Youtube](https://www.youtube.com/@GleristonCastro)
 
 ______________________
----- Português ----
 
 # Conversor de medidas
 Este projeto prático de javascript tem como objetivo de simular uma calculadora de medidas entre quilômetros, metros, centímetros e milímetros.
