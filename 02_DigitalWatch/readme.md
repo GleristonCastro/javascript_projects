@@ -29,6 +29,7 @@ There are no dependencies.
 
 ### My Social Media
 [Linkedin](https://www.linkedin.com/in/gleriston/) | [Codepen](https://codepen.io/GleristonCastro) | [Dev.to](https://dev.to/gleristoncastro) | [Youtube](https://www.youtube.com/@GleristonCastro)
+______________________
 
 # Relógio digital
 Este projeto consiste em criar um relógio digital simples utilizando a função nativa do JavaScript Date(). O foco não foi o layout, visto que há oportunidade para melhorias futuras.
@@ -37,7 +38,6 @@ Este projeto consiste em criar um relógio digital simples utilizando a função
 
 
 _Observação: Para visualizar o preview do projeto clique na imagem acima._
-______________________
 
 ### Descrição
 Com o uso do DOM, podemos selecionar elementos por meio de classes ou IDs e, em seguida, aplicar cálculos matemáticos com um pouco de lógica. Essa abordagem inicial abre oportunidades para a utilização de funções de data (date) e atualizações contínuas com o setInterval().
