@@ -10,11 +10,11 @@ Este projeto prático de javascript tem como objetivo de simular uma calculadora
 [![Preview do projeto](./01_UnitConverter.gif "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/javascript_projects/01_UnitConverter/)
 
 
-_Para visualizar o preview do projeto clique na imagem acima._
+_Observação: Para visualizar o preview do projeto clique na imagem acima._
 ______________________
 
 ### Descrição
-Com a utilização do DOM, conseguimos selecionar os elementos sejam eles por classes ou IDs, logo com um pouco de lógica e matemático temos os calculos matemáticos. Uma abordagem primária que abre precedentes para outras unidades de medidas para se calcular. O layout não era algo com foco, porém deixei o layout com estilo "clean" e adotando no código o máximo de boas práticas de hierarquia e código limpo. Além claro de uma estrutura de pastas simples mas bem intuitiva.
+Com o uso do DOM, podemos selecionar elementos por classes ou IDs e, em seguida, aplicar cálculos matemáticos com um pouco de lógica. Essa abordagem inicial cria oportunidades para a incorporação de outras unidades de medida em nossos cálculos. Embora o layout não tenha sido o foco principal, procurei manter um estilo 'clean' e seguir as melhores práticas de hierarquia e código limpo no desenvolvimento. Além disso, optei por uma estrutura de pastas simples, porém intuitiva.
 
 ## Funcionalidades
 - Conversão entre quilômetros, metros, decímetros e milímetros.
@@ -39,7 +39,4 @@ Não há dependências.
 ![html](https://gleristoncastro.com.br/portfolio/github/preview/globalImages/html5.svg)
 
 ### Minhas redes
-- [Linkedin](https://www.linkedin.com/in/gleriston/)
-- [Codepen](https://codepen.io/GleristonCastro)
-- [Dev.to](https://dev.to/gleristoncastro)
-- [Youtube](https://www.youtube.com/@GleristonCastro)
+[Linkedin](https://www.linkedin.com/in/gleriston/) | [Codepen](https://codepen.io/GleristonCastro) | [Dev.to](https://dev.to/gleristoncastro) | [Youtube](https://www.youtube.com/@GleristonCastro)
