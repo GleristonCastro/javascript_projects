@@ -34,6 +34,6 @@ Não há dependências.
 
 ### Minhas redes
 - [Linkedin](https://www.linkedin.com/in/gleriston/)
-- [Codepen] (https://codepen.io/GleristonCastro)
-- [Dev.to] (https://dev.to/gleristoncastro)
-- [Youtube] (https://www.youtube.com/@GleristonCastro)
+- [Codepen](https://codepen.io/GleristonCastro)
+- [Dev.to](https://dev.to/gleristoncastro)
+- [Youtube](https://www.youtube.com/@GleristonCastro)
