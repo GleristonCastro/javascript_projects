@@ -31,7 +31,6 @@ There are no dependencies.
 
 ### My social media
 [Linkedin](https://www.linkedin.com/in/gleriston/) | [Codepen](https://codepen.io/GleristonCastro) | [Dev.to](https://dev.to/gleristoncastro) | [Youtube](https://www.youtube.com/@GleristonCastro)
-
 ______________________
 
 # Conversor de medidas
@@ -41,7 +40,6 @@ Este projeto prático de javascript tem como objetivo de simular uma calculadora
 
 
 _Observação: Para visualizar o preview do projeto clique na imagem acima._
-______________________
 
 ### Descrição
 Com o uso do DOM, podemos selecionar elementos por classes ou IDs e, em seguida, aplicar cálculos matemáticos com um pouco de lógica. Essa abordagem inicial cria oportunidades para a incorporação de outras unidades de medida em nossos cálculos. Embora o layout não tenha sido o foco principal, procurei manter um estilo 'clean' e seguir as melhores práticas de hierarquia e código limpo no desenvolvimento. Além disso, optei por uma estrutura de pastas simples, porém intuitiva.
