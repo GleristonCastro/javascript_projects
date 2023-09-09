@@ -1,7 +1,7 @@
 # Digital Clock
 This project consists of creating a simple digital clock using JavaScript's native Date() function. The focus was not on the layout, as there is room for future improvements.
 
-[![Project Preview](./02_DigitalWatch.gif "Clique para acessar o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/javascript_projects/02_DigitalWatch/)
+[![Project Preview](./02_DigitalWatch.gif "Click to access the Project preview.")](https://gleristoncastro.com.br/portfolio/github/preview/javascript_projects/02_DigitalWatch/)
 
 _Note: To view the project preview, click on the image above._
 
@@ -23,9 +23,12 @@ No installation is required.
 There are no dependencies.
 
 ### Technologies Used
+![Javascript](https://gleristoncastro.com.br//portfolio/github/preview/globalImages/javascript.svg)
+![CSS](https://gleristoncastro.com.br/portfolio/github/preview/globalImages/css3.svg)
+![html](https://gleristoncastro.com.br/portfolio/github/preview/globalImages/html5.svg)
 
 ### My Social Media
-
+[Linkedin](https://www.linkedin.com/in/gleriston/) | [Codepen](https://codepen.io/GleristonCastro) | [Dev.to](https://dev.to/gleristoncastro) | [Youtube](https://www.youtube.com/@GleristonCastro)
 
 # Relógio digital
 Este projeto consiste em criar um relógio digital simples utilizando a função nativa do JavaScript Date(). O foco não foi o layout, visto que há oportunidade para melhorias futuras.
