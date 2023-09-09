@@ -31,3 +31,9 @@ Não há dependências.
 ![Javascript](https://gleristoncastro.com.br//portfolio/github/preview/globalImages/javascript.svg)
 ![CSS](https://gleristoncastro.com.br/portfolio/github/preview/globalImages/css3.svg)
 ![html](https://gleristoncastro.com.br/portfolio/github/preview/globalImages/html5.svg)
+
+### Minhas redes
+- [Linkedin](https://www.linkedin.com/in/gleriston/)
+- [Codepen] (https://codepen.io/GleristonCastro)
+- [Dev.to] (https://dev.to/gleristoncastro)
+- [Youtube] (https://www.youtube.com/@GleristonCastro)
