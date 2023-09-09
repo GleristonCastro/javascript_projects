@@ -20,7 +20,7 @@ Com a utilização do DOM, conseguimos selecionar os elementos sejam eles por cl
 3. Selecione a unidade de destino.
 4. Clique em "Converter".
 
-### Instalção
+### Instalação
 Não é necessário instalação.
 
 ### Dependências
