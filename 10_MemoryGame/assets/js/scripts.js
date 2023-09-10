@@ -67,7 +67,7 @@ function flipCard() {
 
 function updateAttempts() {
   const attemptsElement = document.querySelector('.attempts');
-  attemptsElement.textContent = `Tentativas: ${attempts}`;
+  attemptsElement.textContent = `Attemps: ${attempts}`;
 };
 
 function disableCards() {
@@ -103,7 +103,7 @@ function showCongratulationsMessage() {
   const congratulationsElement = document.createElement('p');
 
   congratulationsElement.classList.add('congratulations');
-  congratulationsElement.textContent = `Parabéns! Você venceu em ${attempts} tentativas.`
+  congratulationsElement.textContent = `Congratulations! You won in ${attempts} attempts.`
   congratulationsMessage.appendChild(congratulationsElement);
 
   const controller = document.querySelector('#controller > button');
